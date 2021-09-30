@@ -1,0 +1,29 @@
+{
+  "name": "imoose-api-client",
+  "version": "0.1.0",
+  "description": "Imoose API client for Node  https://github.com/imoose-exchange/node-api-client",
+  "main": "imoose-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imoose-exchange/node-api-client.git"
+  },
+  "keywords": [
+    "imoose",
+    "api"
+  ],
+  "author": "iMoose Exchange (https://github.com/imoose-exchange)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imoose-exchange/node-api-client/issues"
+  },
+  "homepage": "https://github.com/imoose-exchange/node-api-client#readme",
+  "dependencies": {
+    "json-bigint": "^1.0.0",
+    "request": "^2.88.2",
+    "string-hash": "^1.1.3",
+    "url": "^0.11.0"
+  }
+}
